@@ -4,9 +4,11 @@
 - 🌱 I’m currently a Master student at University of Bristol 
 - 📫 How to reach me: alfred.zhang98@gmail.com
 
-<center>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alfredzhang98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="alfredzhang98's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredzhang98&layout=compact&theme=buefy&hide_border=true" /></a>
-</center>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredzhang98&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredzhang98&layout=pie&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 
 
@@ -17,5 +19,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+
 -->
+
