@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Alferd](https://github.com/alfredzhang98)
+# Hi there, I'm [Alfred](https://github.com/alfredzhang98)
  
 - 🌱 I’m currently a Master student at University of Bristol 
 - 📫 How to reach me: alfred.zhang98@gmail.com
